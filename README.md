@@ -1,1 +1,1 @@
-## I’m interested in machine learning and software. 
+I’m interested in Machine Learning and software-related projects 
